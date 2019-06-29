@@ -1,0 +1,9 @@
+{
+  "name": "StudyAssistantBot",
+  "token": "826359931:AAGKpTXz8DsDJHncfufzoRdd1Wh80hgEmrI",
+  "login": "KgeuStudyAssistantBot",
+  "proxy": {
+    "http": "http://84.22.98.104:52001",
+    "https": "socks5://blackm:city17@84.22.98.104:52003"
+  }
+}
